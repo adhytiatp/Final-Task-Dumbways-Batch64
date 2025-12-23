@@ -65,11 +65,11 @@ body {
 
 .profile-img {
     transition: transform 0.3s ease;
-    border: 8px solid white; /* Memberi kesan bingkai foto fisik */
+    border: 8px solid white;
 }
 
 .profile-img:hover {
-    transform: scale(1.02); /* Efek sedikit membesar saat diarahkan kursor */
+    transform: scale(1.02);
 }
 
 html {
